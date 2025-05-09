@@ -1,0 +1,21 @@
+
+.s1{
+
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 200px;
+
+}
+div :hover{
+    background-color: red;
+    
+}
+.m{
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+    border: solid black 2px;
+}
